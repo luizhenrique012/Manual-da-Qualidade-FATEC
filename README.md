@@ -74,15 +74,23 @@ Manual da Qualidade FATEC:
 [CAPÍTULO 1 - INDICE.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047761/CAPITULO.1.-.INDICE.docx)
 
 [CAPÍTULO 2 - LISTA DE REVISÃO.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047762/CAPITULO.2.-.LISTA.DE.REVISAO.docx)
+
 [CAPÍTULO 3 - Introdução .docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047763/CAPITULO.3.-.Introducao.docx)
+
 [CAPÍTULO 4 - Congregação - CEPE .docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047764/CAPITULO.4.-.Congregacao.-.CEPE.docx)
+
 [CAPÍTULO 5 - Diretor  .docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047766/CAPITULO.5.-.Diretor.docx)
+
 [CAPÍTULO 6 - Coordenação.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047767/CAPITULO.6.-.Coordenacao.docx)
+
 [CAPÍTULO 7 - NDE .docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047768/CAPITULO.7.-.NDE.docx)
+
 [CAPÍTULO 8 - CPA.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047769/CAPITULO.8.-.CPA.docx)
 
 Documentos de Refêrencia:
 
 [FAT01 - Manual API 2022-1.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047772/FAT01.-.Manual.API.2022-1.docx)
+
 [FAT02 - PROC_ORIENTACAO_CONFEC_AVAL_TG.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047773/FAT02.-.PROC_ORIENTACAO_CONFEC_AVAL_TG.docx)
+
 [FAT03 - REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047774/FAT03.-.REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx)
