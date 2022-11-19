@@ -1,4 +1,4 @@
-     ![image](https://user-images.githubusercontent.com/95879043/202866689-8ef4c45c-ff69-465d-9dbc-1c09607c8b23.png)
+![image](https://user-images.githubusercontent.com/95879043/202866793-714e73cc-380e-47e7-92ed-744bbcf3a05f.png)
 
 # Manual-da-Qualidade-FATEC
 # RESUMO
