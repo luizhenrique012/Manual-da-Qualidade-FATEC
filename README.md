@@ -2,7 +2,8 @@
 
 # Manual-da-Qualidade-FATEC
 # RESUMO
-O manual tem como objetivo primeiro refletir, disseminar e comunicar a Política Garantia da Qualidade da Faculdade Fatec Prof. Jessen Vidal, dando especial ênfase ao seu Sistema Interno de Garantia da Qualidade – ISO 9001. Ele foi dividido em oito capítulos que relaciona as atividades gerenciais da faculdade conforme as responsabilidades atribuídas pela diretoria. No caso da Fatec Jessen Vidal o Manual da Qualidade foi aplicado para produzir bens ou serviços que respondam concretamente às necessidades dos alunos. Para garantir a sobrevivência da faculdade por meio do conhecimento, obtido com o domínio da qualidade aplicada no ensino, identificando o problema mais crítico e solucionando pela mais elevada prioridade. Falar, raciocinar e decidir com dados e com base em fatos administrando a faculdade ao longo do processo e não por resultados, reduzir metodicamente as dispersões por meio do isolamento das causas fundamentais. 
+O manual tem como objetivo primeiro refletir, disseminar e comunicar a Política Garantia da Qualidade da Faculdade Fatec Prof. Jessen Vidal, dando especial ênfase ao seu Sistema Interno de Garantia da Qualidade – ISO 9001. Ele foi dividido em oito capítulos que relaciona as atividades gerenciais da faculdade conforme as responsabilidades atribuídas pela diretoria. No caso da Fatec Jessen Vidal o Manual da Qualidade foi aplicado para produzir bens ou serviços que respondam concretamente às necessidades dos alunos. Para garantir a sobrevivência da faculdade por meio do conhecimento, obtido com o domínio da qualidade aplicada no ensino, identificando o problema mais crítico e solucionando pela mais elevada prioridade. 
+
 # 1  INTRODUÇÃO
 Este presente manual reflete, o esforço da Faculdade Fatec Jessen Vidal em promover e assegurar a qualidade dos serviços prestados, não só através de procedimentos que disseminem a rigidez e a coerência da faculdade, mas, também, pela sistemática orientação para a melhoria contínua. Para a Fatec Jessen Vidal, garantia da qualidade é como a base de uma construção civil, se bem estruturada e investida a possibilidade de imperfeições ou inadvertências é reduzida ao mínimo desvio.
 # 2	CERTIFICAÇÃO ISO 
@@ -66,4 +67,21 @@ Neste capítulo referente a Comissão Própria de Avaliação (CPA) é apresenta
 
 # 5	CONCLUSÃO
 A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as práticas contínuas e pactua com a aplicação de um sistema interno de garantia de qualidade, estruturado e organizado. Este esforço permanente é importante para preservar as boas práticas, sem nunca perder de vista as exigências da permanente inovação e a procura da excelência do ensino brasileiro.
-# LINKS
+#  LINKS
+
+Manual da Qualidade FATEC:
+
+[CAPÍTULO 1 - INDICE.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047761/CAPITULO.1.-.INDICE.docx)
+[CAPÍTULO 2 - LISTA DE REVISÃO.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047762/CAPITULO.2.-.LISTA.DE.REVISAO.docx)
+[CAPÍTULO 3 - Introdução .docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047763/CAPITULO.3.-.Introducao.docx)
+[CAPÍTULO 4 - Congregação - CEPE .docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047764/CAPITULO.4.-.Congregacao.-.CEPE.docx)
+[CAPÍTULO 5 - Diretor  .docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047766/CAPITULO.5.-.Diretor.docx)
+[CAPÍTULO 6 - Coordenação.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047767/CAPITULO.6.-.Coordenacao.docx)
+[CAPÍTULO 7 - NDE .docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047768/CAPITULO.7.-.NDE.docx)
+[CAPÍTULO 8 - CPA.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047769/CAPITULO.8.-.CPA.docx)
+
+Documentos de Refêencia:
+
+[FAT01 - Manual API 2022-1.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047772/FAT01.-.Manual.API.2022-1.docx)
+[FAT02 - PROC_ORIENTACAO_CONFEC_AVAL_TG.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047773/FAT02.-.PROC_ORIENTACAO_CONFEC_AVAL_TG.docx)
+[FAT03 - REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047774/FAT03.-.REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx)
