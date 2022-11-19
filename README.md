@@ -28,15 +28,16 @@ A certificação da norma ISO 9001 na área industrial é algo extremamente impo
 3.1	– Modelo de Estrutura Institucional
 
 O presente manual objetiva discutir o modelo de estrutura institucional da faculdade Fatec Jessen Vidal. Entende-se por faculdade, instituições pluridisciplinares de formação dos quadros profissionais de nível superior, de pesquisa, de extensão e de domínio e cultivo do saber humano, conforme disposto no Art. 52 da Lei de Diretrizes e Bases da Educação Nacional (LDB) – Lei nº 9.394, de 20/12/1996, além de Congregações e Núcleos Docentes Estruturantes que possibilitam uma melhor gestão das atividades a serem executadas.
+
 3.2	– Comunicação Interna
 
 As faculdades buscam encontrar formas de melhorar os serviços prestados aos alunos, mas também aos próprios funcionários. E a melhor maneira de fortalecer esse processo que é execencial para desenvolvimento das informações se chama “Comunicação Interna”, que facilita as relações na orgazinação da faculdade de uma forma geral. No caso da Fatec Jessen Vidal, o público envolvido no fluxo de informações envolve alunos, professores e funcionários.
-
 
 3.3	– Política de Qualidade da Faculdade
 
 Para que a Fatec Jessen Vidal possa se desenvolver de acordo com esses pressupostos, é adotado a lógica do PDCA, que busca atingir resultados dentro de um sistema de gestão e pode ser utilizado em qualquer instituição de forma a garantir o sucesso nos ensinos, independentemente da área de atuação do aluno.
 Essa prática começa pelo planejamento, em seguida as ações planejadas são executadas, checa-se se o que foi feito estava de acordo com o planejado e por fim toma-se uma ação para eliminar ou ao menos suavizar defeitos no produto ou na execução.
+
 #  4	DESENVOLVIMENTO DO MANUAL 
 O desenvolvimento do manual foi realizado com base na Figura “Organograma do Manual”. Observa-se que foram criados tópicos para cada organismo da Fatec Jessen Vidal, a saber: congregação, diretoria da unidade, departamentos ou coordenadorias de curso, NDE e CPA.
  
@@ -55,11 +56,11 @@ Neste capítulo foi apresentado as atividades realizadas pela diretoria, diretor
 
 Os Departamentos/ Coordenadorias de cursos foram desenvolvidos com o intuito de identificar funções, atribuições, responsabilidades e encargos do coordenador dos cursos, visando melhor planejamento, controle e avaliação das atividades pedagógicas a serem executadas na faculdade. Cabe ao coordenador assumir a responsabilidade de divulgação do curso, gerando visibilidade e credibilidade ao ensino da instituição, atuando diretamente no relacionamento entre docentes, discentes e comunidade.
 
-4.4	– NDE:
+4.4	– Núcleo Docente Estruturante
 
 No capítulo do Núcleo Docente Estruturante (NDE) demonstra o objetivo que é estruturar e atualizar o processo de formação de docentes de acompanhamento, formação e continuidade contínua do projeto pedagógico do curso.
 
-4.5	– CPA:
+4.5	– Comissão Própria de Avaliação
 
 Neste capítulo referente a Comissão Própria de Avaliação (CPA) é apresentado a responsabilidade de coordenar uma autoavaliação institucional. A Fatec Jessen Vidal ministra as atividades de ensino, pesquisa e extensão dos serviços à comunidade. É relatado os seus encargos relacionados a admissão do vestibular, matrícula, transferências e todas as atividades pertinentes a vida acadêmica.
 
