@@ -46,6 +46,7 @@ O desenvolvimento do manual foi realizado com base na Figura “Organograma do M
 4.1	– CONGREGAÇÃO:
 
 A congregação foi desenvolvida com objetivo de organizar toda a unidade da Fatec Jessen Vidal. A congregação é formada por toda a supervisão da faculdade, como diretoria, coordenadoria, professores e representantes do corpo técnico administrativo. A congregação no âmbito de ensino busca conduzir toda a faculdade como um todo, elaboração de regimes, comprimento de diretrizes, aprovações de planos de ensino e avaliar os resultados da Fatec Jessen Vidal.
+
 4.2	– DIRETORIA DA UNIDADE:
 
 Neste capítulo foi apresentado as atividades realizadas pela diretoria, diretoria de serviços administrativos e Acadêmicos. Também é abordado os requisitos para a candidatura e composição da gestão acadêmica. Na classificação da “Diretoria de Serviços Administrativos” é apontado a responsabilidade de coordenar, orientar e controlar o desenvolvimento das atividades administrativas da unidade. A classificação da “Diretoria de Serviços Acadêmicos” é apontada a responsabilidade de orientar e controlar o desenvolvimento das atividades acadêmicas da Faculdade de Tecnologia. E por fim a classificação de “Diretoria” é apontado a responsabilidade de zelar, autorizar, aprovar e designar todo o procedimento da Fatec Jessen Vidal.
@@ -53,12 +54,15 @@ Neste capítulo foi apresentado as atividades realizadas pela diretoria, diretor
 4.3	– DEPARTAMENTOS OU COORDENADORIAS DE CURSOS:
 
 Os Departamentos/ Coordenadorias de cursos foram desenvolvidos com o intuito de identificar funções, atribuições, responsabilidades e encargos do coordenador dos cursos, visando melhor planejamento, controle e avaliação das atividades pedagógicas a serem executadas na faculdade. Cabe ao coordenador assumir a responsabilidade de divulgação do curso, gerando visibilidade e credibilidade ao ensino da instituição, atuando diretamente no relacionamento entre docentes, discentes e comunidade.
+
 4.4	– NDE:
 
 No capítulo do Núcleo Docente Estruturante (NDE) demonstra o objetivo que é estruturar e atualizar o processo de formação de docentes de acompanhamento, formação e continuidade contínua do projeto pedagógico do curso.
+
 4.5	– CPA:
 
-Neste capítulo referente a Comissão Própria de Avaliação (CPA) é apresentado a responsabilidade de coordenar uma autoavaliação institucional. A Fatec Jessen Vidal ministra as atividades de ensino, pesquisa e extensão dos serviços à comunidade. É relatado os seu	s encargos relacionados a admissão do vestibular, matrícula, transferências e todas as atividades pertinentes a vida acadêmica.
+Neste capítulo referente a Comissão Própria de Avaliação (CPA) é apresentado a responsabilidade de coordenar uma autoavaliação institucional. A Fatec Jessen Vidal ministra as atividades de ensino, pesquisa e extensão dos serviços à comunidade. É relatado os seus encargos relacionados a admissão do vestibular, matrícula, transferências e todas as atividades pertinentes a vida acadêmica.
+
 # 5	CONCLUSÃO
 A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as práticas contínuas e pactua com a aplicação de um sistema interno de garantia de qualidade, estruturado e organizado. Este esforço permanente é importante para preservar as boas práticas, sem nunca perder de vista as exigências da permanente inovação e a procura da excelência do ensino brasileiro.
 # LINKS
