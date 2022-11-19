@@ -2,7 +2,7 @@
 
 # Manual-da-Qualidade-FATEC
 # RESUMO
-O manual tem como objetivo primeiro refletir, disseminar e comunicar a Política Garantia da Qualidade da Faculdade Fatec Prof. Jessen Vidal, dando especial ênfase ao seu Sistema Interno de Garantia da Qualidade – ISO 9001. Ele foi dividido em oito capítulos que relaciona as atividades gerenciais da faculdade conforme as responsabilidades atribuídas pela diretoria. No caso da Fatec Jessen Vidal o Manual da Qualidade foi aplicado para produzir bens ou serviços que respondam concretamente às necessidades dos alunos. Para garantir a sobrevivência da faculdade por meio do conhecimento, obtido com o domínio da qualidade aplicada no ensino, identificando o problema mais crítico e solucionando pela mais elevada prioridade. 
+O manual tem como objetivo primeiro refletir, disseminar e comunicar a Política Garantia da Qualidade da Faculdade Fatec Prof. Jessen Vidal, dando especial ênfase ao seu Sistema Interno de Garantia da Qualidade – ISO 9001. Ele foi dividido em oito capítulos que relaciona as atividades gerenciais da faculdade conforme as responsabilidades atribuídas pela diretoria. No caso da Fatec Jessen Vidal o Manual da Qualidade foi aplicado para produzir bens ou serviços que respondam concretamente às necessidades dos alunos. Para garantir a sobrevivência da faculdade por meio do conhecimento, obtido com o domínio da qualidade aplicada no ensino, identificando o problema mais crítico e solucionando pela mais elevada prioridade. Falar, raciocinar e decidir com dados e com base em fatos administrando a faculdade ao longo do processo e não por resultados, reduzir metodicamente as dispersões por meio do isolamento das causas fundamentais. 
 
 # 1  INTRODUÇÃO
 Este presente manual reflete, o esforço da Faculdade Fatec Jessen Vidal em promover e assegurar a qualidade dos serviços prestados, não só através de procedimentos que disseminem a rigidez e a coerência da faculdade, mas, também, pela sistemática orientação para a melhoria contínua. Para a Fatec Jessen Vidal, garantia da qualidade é como a base de uma construção civil, se bem estruturada e investida a possibilidade de imperfeições ou inadvertências é reduzida ao mínimo desvio.
@@ -80,7 +80,7 @@ Manual da Qualidade FATEC:
 [CAPÍTULO 7 - NDE .docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047768/CAPITULO.7.-.NDE.docx)
 [CAPÍTULO 8 - CPA.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047769/CAPITULO.8.-.CPA.docx)
 
-Documentos de Refêencia:
+Documentos de Refêrencia:
 
 [FAT01 - Manual API 2022-1.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047772/FAT01.-.Manual.API.2022-1.docx)
 [FAT02 - PROC_ORIENTACAO_CONFEC_AVAL_TG.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047773/FAT02.-.PROC_ORIENTACAO_CONFEC_AVAL_TG.docx)
