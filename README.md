@@ -94,3 +94,6 @@ Documentos de Refêrencia:
 [FAT02 - PROC_ORIENTACAO_CONFEC_AVAL_TG.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047773/FAT02.-.PROC_ORIENTACAO_CONFEC_AVAL_TG.docx)
 
 [FAT03 - REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047774/FAT03.-.REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx)
+# DEV TEAM
+![image](https://user-images.githubusercontent.com/95879043/202868687-e1e3d17f-f852-490e-9984-1530a21eb994.png)
+Luiz Henrique Alves - https://www.linkedin.com/in/luiz-henrique-alvess/
