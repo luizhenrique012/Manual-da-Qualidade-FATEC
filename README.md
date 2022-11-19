@@ -96,4 +96,13 @@ Documentos de Refêrencia:
 [FAT03 - REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047774/FAT03.-.REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx)
 # DEV TEAM
 ![image](https://user-images.githubusercontent.com/95879043/202868687-e1e3d17f-f852-490e-9984-1530a21eb994.png)
+
 Luiz Henrique Alves - https://www.linkedin.com/in/luiz-henrique-alvess/
+
+![image](https://user-images.githubusercontent.com/95879043/202868757-2e84a554-3b70-4c34-bc17-dd39e249b4c0.png)
+
+Pablo Juliano - https://www.linkedin.com/in/pablo-juliano-barbosa-da-silva-b83b1b16a/
+
+![image](https://user-images.githubusercontent.com/95879043/202868944-721048a1-9271-4788-9555-852fb88862e3.png)
+
+Gabriele Rodrigues - https://www.linkedin.com/in/gabriele-r-131261bb/
