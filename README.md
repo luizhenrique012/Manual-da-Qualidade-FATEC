@@ -57,3 +57,4 @@ No capítulo do Núcleo Docente Estruturante (NDE) demonstra o objetivo que é e
 Neste capítulo referente a Comissão Própria de Avaliação (CPA) é apresentado a responsabilidade de coordenar uma autoavaliação institucional. A Fatec Jessen Vidal ministra as atividades de ensino, pesquisa e extensão dos serviços à comunidade. É relatado os seu	s encargos relacionados a admissão do vestibular, matrícula, transferências e todas as atividades pertinentes a vida acadêmica.
 # 5	CONCLUSÃO
 A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as práticas contínuas e pactua com a aplicação de um sistema interno de garantia de qualidade, estruturado e organizado. Este esforço permanente é importante para preservar as boas práticas, sem nunca perder de vista as exigências da permanente inovação e a procura da excelência do ensino brasileiro.
+# LINKS
