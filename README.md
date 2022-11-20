@@ -49,7 +49,7 @@ O desenvolvimento do manual foi realizado com base na Figura “Organograma do M
 
 A congregação foi desenvolvida com objetivo de organizar toda a unidade da Fatec Jessen Vidal. A congregação é formada por toda a supervisão da faculdade, como diretoria, coordenadoria, professores e representantes do corpo técnico administrativo. A congregação no âmbito de ensino busca conduzir toda a faculdade como um todo, elaboração de regimes, comprimento de diretrizes, aprovações de planos de ensino e avaliar os resultados da Fatec Jessen Vidal.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DA CONGREGAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047761/CAPITULO.1.-.INDICE.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DA CONGREGAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047764/CAPITULO.4.-.Congregacao.-.CEPE.docx) |
 | :---: |
 
 4.2	– DIRETORIA DA UNIDADE:
