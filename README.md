@@ -106,3 +106,5 @@ Pablo Juliano - https://www.linkedin.com/in/pablo-juliano-barbosa-da-silva-b83b1
 ![image](https://user-images.githubusercontent.com/95879043/202868944-721048a1-9271-4788-9555-852fb88862e3.png)
 
 Gabriele Rodrigues - https://www.linkedin.com/in/gabriele-r-131261bb/
+
+[MANUAL DA QUALIDADE FATEC_.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10048174/MANUAL.DA.QUALIDADE.FATEC_.pdf)
