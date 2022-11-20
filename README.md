@@ -49,21 +49,36 @@ O desenvolvimento do manual foi realizado com base na Figura “Organograma do M
 
 A congregação foi desenvolvida com objetivo de organizar toda a unidade da Fatec Jessen Vidal. A congregação é formada por toda a supervisão da faculdade, como diretoria, coordenadoria, professores e representantes do corpo técnico administrativo. A congregação no âmbito de ensino busca conduzir toda a faculdade como um todo, elaboração de regimes, comprimento de diretrizes, aprovações de planos de ensino e avaliar os resultados da Fatec Jessen Vidal.
 
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DA CONGREGAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047761/CAPITULO.1.-.INDICE.docx) |
+| :---: |
+
 4.2	– DIRETORIA DA UNIDADE:
 
 Neste capítulo foi apresentado as atividades realizadas pela diretoria, diretoria de serviços administrativos e Acadêmicos. Também é abordado os requisitos para a candidatura e composição da gestão acadêmica. Na classificação da “Diretoria de Serviços Administrativos” é apontado a responsabilidade de coordenar, orientar e controlar o desenvolvimento das atividades administrativas da unidade. A classificação da “Diretoria de Serviços Acadêmicos” é apontada a responsabilidade de orientar e controlar o desenvolvimento das atividades acadêmicas da Faculdade de Tecnologia. E por fim a classificação de “Diretoria” é apontado a responsabilidade de zelar, autorizar, aprovar e designar todo o procedimento da Fatec Jessen Vidal.
+
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DA DIRETORIA DE UNIDADE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047766/CAPITULO.5.-.Diretor.docx) |
+| :---: |
 
 4.3	– DEPARTAMENTOS OU COORDENADORIAS DE CURSOS:
 
 Os Departamentos/ Coordenadorias de cursos foram desenvolvidos com o intuito de identificar funções, atribuições, responsabilidades e encargos do coordenador dos cursos, visando melhor planejamento, controle e avaliação das atividades pedagógicas a serem executadas na faculdade. Cabe ao coordenador assumir a responsabilidade de divulgação do curso, gerando visibilidade e credibilidade ao ensino da instituição, atuando diretamente no relacionamento entre docentes, discentes e comunidade.
 
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DO DEPARTAMENTO OU COORDENADORIAS DE CURSOS</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047767/CAPITULO.6.-.Coordenacao.docx) |
+| :---: |
+
 4.4	– Núcleo Docente Estruturante
 
 No capítulo do Núcleo Docente Estruturante (NDE) demonstra o objetivo que é estruturar e atualizar o processo de formação de docentes de acompanhamento, formação e continuidade contínua do projeto pedagógico do curso.
 
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DO NÚCLEO DOCENTE ESTRUTURANTE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047768/CAPITULO.7.-.NDE.docx) |
+| :---: |
+
 4.5	– Comissão Própria de Avaliação
 
 Neste capítulo referente a Comissão Própria de Avaliação (CPA) é apresentado a responsabilidade de coordenar uma autoavaliação institucional. A Fatec Jessen Vidal ministra as atividades de ensino, pesquisa e extensão dos serviços à comunidade. É relatado os seus encargos relacionados a admissão do vestibular, matrícula, transferências e todas as atividades pertinentes a vida acadêmica.
+
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DA COMISSÃO PRÓPRIA DE AVALIAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047769/CAPITULO.8.-.CPA.docx) |
+| :---: |
 
 # 5	CONCLUSÃO
 A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as práticas contínuas e pactua com a aplicação de um sistema interno de garantia de qualidade, estruturado e organizado. Este esforço permanente é importante para preservar as boas práticas, sem nunca perder de vista as exigências da permanente inovação e a procura da excelência do ensino brasileiro.
@@ -95,14 +110,6 @@ Documentos de Refêrencia:
 
 [FAT03 - REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047774/FAT03.-.REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx)
 # DEV TEAM
-![image](https://user-images.githubusercontent.com/95879043/202868687-e1e3d17f-f852-490e-9984-1530a21eb994.png)
 
-Luiz Henrique Alves - https://www.linkedin.com/in/luiz-henrique-alvess/
-
-![image](https://user-images.githubusercontent.com/95879043/202868757-2e84a554-3b70-4c34-bc17-dd39e249b4c0.png)
-
-Pablo Juliano - https://www.linkedin.com/in/pablo-juliano-barbosa-da-silva-b83b1b16a/
-
-![image](https://user-images.githubusercontent.com/95879043/202868944-721048a1-9271-4788-9555-852fb88862e3.png)
-
-Gabriele Rodrigues - https://www.linkedin.com/in/gabriele-r-131261bb/
+| [<img src="https://user-images.githubusercontent.com/95879043/202868944-721048a1-9271-4788-9555-852fb88862e3.png" width=115><br><sub>Gabriele Rodrigues</sub>](https://www.linkedin.com/in/gabriele-r-131261bb/) |  [<img src="https://user-images.githubusercontent.com/95879043/202868687-e1e3d17f-f852-490e-9984-1530a21eb994.png" width=115><br><sub>Luiz Henrique</sub>](https://www.linkedin.com/in/luiz-henrique-alvess/) |  [<img src="https://user-images.githubusercontent.com/95879043/202868757-2e84a554-3b70-4c34-bc17-dd39e249b4c0.png" width=115><br><sub>Pablo Juliano</sub>](https://www.linkedin.com/in/pablo-juliano-barbosa-da-silva-b83b1b16a/) |
+| :---: | :---: | :---: |
