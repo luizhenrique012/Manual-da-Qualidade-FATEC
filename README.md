@@ -11,7 +11,7 @@ Este presente manual reflete, o esforço da Faculdade Fatec Jessen Vidal em prom
 # 2	CERTIFICAÇÃO ISO 
 2.1	– O que é a ISO 21001?
 
-A norma ISO 21001 é uma forma de padronização para as organizações educacionais, segundo o site da ABNT NBR. A ISO 21001 visa aumentar a satisfação dos alunos, outros beneficiários e empregados por meio de aplicação eficaz do seu Sistema de Gestão para Organizações Educacionais (SGOE), incluindo processos de melhoria do sistema e garantia de conformidade com os requisitos dos alunos e outros beneficiários. Disponível em < https://www.normas.com.br/visualizar/abnt-nbr-nm/12635/abnt-nbriso21001-organizacoes-educacionais-sistema-de-gestao-para-organizacoes-educacionais-requisitos-com-orientacao-para-uso >. Acesso em: 20 de novembro 2022.
+A norma ISO 21001 é uma forma de padronização para as organizações educacionais, segundo o site da ABNT NBR. A ISO 21001 visa aumentar a satisfação dos alunos, outros beneficiários e empregados por meio de aplicação eficaz do seu Sistema de Gestão para Organizações Educacionais (SGOE), incluindo processos de melhoria do sistema e garantia de conformidade com os requisitos dos alunos e outros beneficiários. Disponível em <https://www.normas.com.br/visualizar/abnt-nbr-nm/12635/abnt-nbriso21001-organizacoes-educacionais-sistema-de-gestao-para-organizacoes-educacionais-requisitos-com-orientacao-para-uso>. Acesso em: 20 de novembro 2022.
 
 2.2	– Como Implementar a ISO 21001
 
