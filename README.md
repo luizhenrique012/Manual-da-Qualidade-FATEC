@@ -1,29 +1,30 @@
 ![image](https://user-images.githubusercontent.com/95879043/202866872-56c0046b-7ec0-4a88-94f2-598dd721f33f.png)
 
 # Manual-da-Qualidade-FATEC
+
 # RESUMO
-O manual tem como objetivo primeiro refletir, disseminar e comunicar a Política Garantia da Qualidade da Faculdade Fatec Prof. Jessen Vidal, dando especial ênfase ao seu Sistema Interno de Garantia da Qualidade – ISO 9001. Ele foi dividido em oito capítulos que relaciona as atividades gerenciais da faculdade conforme as responsabilidades atribuídas pela diretoria. No caso da Fatec Jessen Vidal o Manual da Qualidade foi aplicado para produzir bens ou serviços que respondam concretamente às necessidades dos alunos. Para garantir a sobrevivência da faculdade por meio do conhecimento, obtido com o domínio da qualidade aplicada no ensino, identificando o problema mais crítico e solucionando pela mais elevada prioridade. Falar, raciocinar e decidir com dados e com base em fatos administrando a faculdade ao longo do processo e não por resultados, reduzir metodicamente as dispersões por meio do isolamento das causas fundamentais. 
+O manual tem como objetivo primeiro refletir, disseminar e comunicar a Política Garantia da Qualidade da Faculdade Fatec Prof. Jessen Vidal, dando especial ênfase ao seu Sistema Interno de Garantia da Qualidade – ISO 21001. Ele foi dividido em cinco processos que relaciona as atividades gerenciais da faculdade conforme as responsabilidades atribuídas pela diretoria. No caso da Fatec Jessen Vidal o Manual da Qualidade foi aplicado para produzir bens ou serviços que respondam concretamente às necessidades dos alunos. Para garantir a sobrevivência da faculdade por meio do conhecimento, obtido com o domínio da qualidade aplicada no ensino, identificando o problema mais crítico e solucionando pela mais elevada prioridade. Falar, raciocinar e decidir com dados e com base em fatos administrando a faculdade ao longo do processo e não por resultados, reduzir metodicamente as dispersões por meio do isolamento das causas fundamentais.
 
 # 1  INTRODUÇÃO
 Este presente manual reflete, o esforço da Faculdade Fatec Jessen Vidal em promover e assegurar a qualidade dos serviços prestados, não só através de procedimentos que disseminem a rigidez e a coerência da faculdade, mas, também, pela sistemática orientação para a melhoria contínua. Para a Fatec Jessen Vidal, garantia da qualidade é como a base de uma construção civil, se bem estruturada e investida a possibilidade de imperfeições ou inadvertências é reduzida ao mínimo desvio.
+
 # 2	CERTIFICAÇÃO ISO 
-2.1	– O que é a ISO 9001?
+2.1	– O que é a ISO 21001?
 
-A norma ISO 9001 é uma forma de padronização para um determinado serviço ou produto. Segundo FURNIEL, Igor. A ISO 9001 é um sistema de gestão com o intuito de garantir a otimização de processos, maior agilidade no desenvolvimento de produtos e produção mais ágil a fim de satisfazer os clientes e alcançar o sucesso sustentado. Disponível em < https://certificacaoiso.com.br/iso-9001/ >. Acesso em: 06 de novembro 2022. 
+A norma ISO 21001 é uma forma de padronização para as organizações educacionais, segundo o site da ABNT NBR. A ISO 21001 visa aumentar a satisfação dos alunos, outros beneficiários e empregados por meio de aplicação eficaz do seu Sistema de Gestão para Organizações Educacionais (SGOE), incluindo processos de melhoria do sistema e garantia de conformidade com os requisitos dos alunos e outros beneficiários. Disponível em < https://www.normas.com.br/visualizar/abnt-nbr-nm/12635/abnt-nbriso21001-organizacoes-educacionais-sistema-de-gestao-para-organizacoes-educacionais-requisitos-com-orientacao-para-uso >. Acesso em: 20 de novembro 2022.
 
-2.2	– Como Implementar a ISO 9001
+2.2	– Como Implementar a ISO 21001
 
 A implantação pode ocorrer mediante a aplicação de um “projeto interno” à faculdade Fatec Jessen Vidal, sendo uma equipe multifuncional, com membros de todos os departamentos e considerando à visão de suas atividades pertinentes. Deve ser formada para desenvolvimento das atividades requeridas pelo projeto o que incluiu, principalmente, o desenho dos processos, o título de informação sobre o desenvolvimento do projeto para que seja criada a cultura da qualidade.
 
 2.3	– A sua importância
 
-Uma instituição com a implementação da ISO 9001 garante aos alunos que seus serviços são confiáveis e de qualidade, comprovando que atua seguindo normas internacionais e utilizando processos que passam por melhoria contínua. Portanto, a implantação da ISO 9001 ajudará o gestor na identificação e correção de processos improdutivos ou aperfeiçoamento de algo positivo dentro do ambiente escolar, mantendo a qualidade dos serviços prestados e, consequentemente, a satisfação dos alunos. Trazendo para prática o escritor britânico John Ruskin informa que, “a garantia da qualidade nunca se obtém por acaso, ela é sempre o resultado do esforço inteligente”.
+Uma instituição com a implementação da ISO 21001 garante aos alunos que seus serviços são confiáveis e de qualidade, comprovando que atua seguindo normas internacionais e utilizando processos que passam por melhoria contínua. Portanto, a implantação da ISO 21001 ajudará o gestor na identificação e correção de processos improdutivos ou aperfeiçoamento de algo positivo dentro do ambiente escolar, mantendo a qualidade dos serviços prestados e, consequentemente, a satisfação dos alunos. Trazendo para prática o escritor britânico John Ruskin informa que, “a garantia da qualidade nunca se obtém por acaso, ela é sempre o resultado do esforço inteligente”.
 
+2.4	– Norma ISO 21001 no setor educacional
 
+A certificação da norma ISO 9001 na área industrial é algo extremamente importante para se sobressair contra a concorrência das empresas. Mas no setor educacional brasileiro é algo ainda inovador, por conta disso foi criado a "ISO 21001" que é uma norma baseada na ISO 9001 com requisitos específicos para Organizações Educacionais. Conforme informações do INMETRO (2008), pode-se afirmar que há 0,003 % de instituições de ensino de nível universitário, que possuíam a certificação ISO 9001:2000 no Brasil, em um universo de 2.398 públicas e privadas. Neste sentido, com a aplicação em 03/2020 da norma brasileira "NBR ISO 21001", que possui as diretrizes para implementação de um (SGOE), esta norma atenderá os estabelecimentos educacionais de todos os tipos e portes, já que os requisitos da "NBR ISO 21001" são genéricos e aplicáveis a todas as organizações educacionais.
 
-2.4	– Norma ISO 9001 no setor educacional
-
-A certificação da norma ISO 9001 na área industrial é algo extremamente importante para se sobressair contra a concorrência. Mas no setor educacional brasileiro é algo ainda inovador, conforme informações do INMETRO (2008), pode-se afirmar que há 0,003 % de instituições de ensino de nível universitário, certificadas com ISO 9001:2000 no Brasil, em um universo de 2.398 públicas e privadas. Neste sentido, com o surgimento em 2006 da norma brasileira NBR 15419, que possui as diretrizes para aplicação da NBR ISO 9001 nas organizações educacionais, esta norma atenderá os estabelecimentos educacionais de todos os tipos e portes, já que os requisitos da ABNT NBR ISO 9001:2000 são genéricos e aplicáveis a todas as organizações.
 # 3	APRESENTAÇÃO DA INSTITUIÇÃO E ATRIBUIÇÃO DA POLÍTICA DA QUALIDADE
 
 3.1	– Modelo de Estrutura Institucional
@@ -87,11 +88,11 @@ A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as prática
 
 Manual da Qualidade FATEC:
 
-[CAPITULO 1 - INDICE.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056336/CAPITULO.1.-.INDICE.pdf)
+[CAPITULO 1 - INDICE.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057558/CAPITULO.1.-.INDICE.pdf)
 
-[CAPITULO 2 - LISTA DE REVISAO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056337/CAPITULO.2.-.LISTA.DE.REVISAO.pdf)
+[CAPITULO 2 - LISTA DE REVISAO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057511/CAPITULO.2.-.LISTA.DE.REVISAO.pdf)
 
-[CAPITULO 3 - INTRODUCAO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056338/CAPITULO.3.-.INTRODUCAO.pdf)
+[CAPITULO 3 - INTRODUCAO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057512/CAPITULO.3.-.INTRODUCAO.pdf)
 
 [Processo_Congregacao.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056339/Processo_Congregacao.pdf)
 
