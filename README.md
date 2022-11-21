@@ -49,35 +49,35 @@ O desenvolvimento do manual foi realizado com base na Figura “Organograma do M
 
 A congregação foi desenvolvida com objetivo de organizar toda a unidade da Fatec Jessen Vidal. A congregação é formada por toda a supervisão da faculdade, como diretoria, coordenadoria, professores e representantes do corpo técnico administrativo. A congregação no âmbito de ensino busca conduzir toda a faculdade como um todo, elaboração de regimes, comprimento de diretrizes, aprovações de planos de ensino e avaliar os resultados da Fatec Jessen Vidal.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DA CONGREGAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051089/Processo.Congregacao.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO CONGREGAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051089/Processo.Congregacao.docx) |
 | :---: |
 
 4.2	– DIRETORIA DA UNIDADE:
 
 Neste capítulo foi apresentado as atividades realizadas pela diretoria, diretoria de serviços administrativos e Acadêmicos. Também é abordado os requisitos para a candidatura e composição da gestão acadêmica. Na classificação da “Diretoria de Serviços Administrativos” é apontado a responsabilidade de coordenar, orientar e controlar o desenvolvimento das atividades administrativas da unidade. A classificação da “Diretoria de Serviços Acadêmicos” é apontada a responsabilidade de orientar e controlar o desenvolvimento das atividades acadêmicas da Faculdade de Tecnologia. E por fim a classificação de “Diretoria” é apontado a responsabilidade de zelar, autorizar, aprovar e designar todo o procedimento da Fatec Jessen Vidal.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DA DIRETORIA DE UNIDADE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051093/Processo.Diretoria.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO DIRETORIA DE UNIDADE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051093/Processo.Diretoria.docx) |
 | :---: |
 
 4.3	– DEPARTAMENTOS OU COORDENADORIAS DE CURSOS:
 
 Os Departamentos/ Coordenadorias de cursos foram desenvolvidos com o intuito de identificar funções, atribuições, responsabilidades e encargos do coordenador dos cursos, visando melhor planejamento, controle e avaliação das atividades pedagógicas a serem executadas na faculdade. Cabe ao coordenador assumir a responsabilidade de divulgação do curso, gerando visibilidade e credibilidade ao ensino da instituição, atuando diretamente no relacionamento entre docentes, discentes e comunidade.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DO DEPARTAMENTO OU COORDENADORIAS DE CURSOS</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051091/Processo.Coordenacao.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO DEPARTAMENTO OU COORDENADORIAS DE CURSOS</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051091/Processo.Coordenacao.docx) |
 | :---: |
 
 4.4	– Núcleo Docente Estruturante
 
 No capítulo do Núcleo Docente Estruturante (NDE) demonstra o objetivo que é estruturar e atualizar o processo de formação de docentes de acompanhamento, formação e continuidade contínua do projeto pedagógico do curso.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DO NÚCLEO DOCENTE ESTRUTURANTE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051094/Processo.NDE.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO NÚCLEO DOCENTE ESTRUTURANTE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051094/Processo.NDE.docx) |
 | :---: |
 
 4.5	– Comissão Própria de Avaliação
 
 Neste capítulo referente a Comissão Própria de Avaliação (CPA) é apresentado a responsabilidade de coordenar uma autoavaliação institucional. A Fatec Jessen Vidal ministra as atividades de ensino, pesquisa e extensão dos serviços à comunidade. É relatado os seus encargos relacionados a admissão do vestibular, matrícula, transferências e todas as atividades pertinentes a vida acadêmica.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>DETALHAMENTO DA COMISSÃO PRÓPRIA DE AVALIAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051092/Processo.CPA.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO COMISSÃO PRÓPRIA DE AVALIAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051092/Processo.CPA.docx) |
 | :---: |
 
 # 5	CONCLUSÃO
