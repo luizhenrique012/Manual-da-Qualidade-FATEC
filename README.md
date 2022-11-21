@@ -49,35 +49,35 @@ O desenvolvimento do manual foi realizado com base na Figura “Organograma do M
 
 A congregação foi desenvolvida com objetivo de organizar toda a unidade da Fatec Jessen Vidal. A congregação é formada por toda a supervisão da faculdade, como diretoria, coordenadoria, professores e representantes do corpo técnico administrativo. A congregação no âmbito de ensino busca conduzir toda a faculdade como um todo, elaboração de regimes, comprimento de diretrizes, aprovações de planos de ensino e avaliar os resultados da Fatec Jessen Vidal.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO CONGREGAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051089/Processo.Congregacao.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO CONGREGAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056339/Processo_Congregacao.pdf) |
 | :---: |
 
 4.2	– DIRETORIA DA UNIDADE:
 
 Neste capítulo foi apresentado as atividades realizadas pela diretoria, diretoria de serviços administrativos e Acadêmicos. Também é abordado os requisitos para a candidatura e composição da gestão acadêmica. Na classificação da “Diretoria de Serviços Administrativos” é apontado a responsabilidade de coordenar, orientar e controlar o desenvolvimento das atividades administrativas da unidade. A classificação da “Diretoria de Serviços Acadêmicos” é apontada a responsabilidade de orientar e controlar o desenvolvimento das atividades acadêmicas da Faculdade de Tecnologia. E por fim a classificação de “Diretoria” é apontado a responsabilidade de zelar, autorizar, aprovar e designar todo o procedimento da Fatec Jessen Vidal.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO DIRETORIA DE UNIDADE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051093/Processo.Diretoria.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO DIRETORIA DE UNIDADE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056342/Processo_Diretoria.pdf) |
 | :---: |
 
 4.3	– DEPARTAMENTOS OU COORDENADORIAS DE CURSOS:
 
 Os Departamentos/ Coordenadorias de cursos foram desenvolvidos com o intuito de identificar funções, atribuições, responsabilidades e encargos do coordenador dos cursos, visando melhor planejamento, controle e avaliação das atividades pedagógicas a serem executadas na faculdade. Cabe ao coordenador assumir a responsabilidade de divulgação do curso, gerando visibilidade e credibilidade ao ensino da instituição, atuando diretamente no relacionamento entre docentes, discentes e comunidade.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO DEPARTAMENTO OU COORDENADORIAS DE CURSOS</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051091/Processo.Coordenacao.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO DEPARTAMENTO OU COORDENADORIAS DE CURSOS</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056340/Processo_Coordenacao.pdf) |
 | :---: |
 
 4.4	– Núcleo Docente Estruturante
 
 No capítulo do Núcleo Docente Estruturante (NDE) demonstra o objetivo que é estruturar e atualizar o processo de formação de docentes de acompanhamento, formação e continuidade contínua do projeto pedagógico do curso.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO NÚCLEO DOCENTE ESTRUTURANTE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051094/Processo.NDE.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO NÚCLEO DOCENTE ESTRUTURANTE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056343/Processo_NDE.pdf) |
 | :---: |
 
 4.5	– Comissão Própria de Avaliação
 
 Neste capítulo referente a Comissão Própria de Avaliação (CPA) é apresentado a responsabilidade de coordenar uma autoavaliação institucional. A Fatec Jessen Vidal ministra as atividades de ensino, pesquisa e extensão dos serviços à comunidade. É relatado os seus encargos relacionados a admissão do vestibular, matrícula, transferências e todas as atividades pertinentes a vida acadêmica.
 
-| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO COMISSÃO PRÓPRIA DE AVALIAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051092/Processo.CPA.docx) |
+| [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO COMISSÃO PRÓPRIA DE AVALIAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056341/Processo_CPA.pdf) |
 | :---: |
 
 # 5	CONCLUSÃO
@@ -87,29 +87,30 @@ A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as prática
 
 Manual da Qualidade FATEC:
 
-[CAPÍTULO 1 - INDICE.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047761/CAPITULO.1.-.INDICE.docx)
+[CAPITULO 1 - INDICE.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056336/CAPITULO.1.-.INDICE.pdf)
 
-[CAPÍTULO 2 - LISTA DE REVISÃO.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047762/CAPITULO.2.-.LISTA.DE.REVISAO.docx)
+[CAPITULO 2 - LISTA DE REVISAO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056337/CAPITULO.2.-.LISTA.DE.REVISAO.pdf)
 
-[CAPÍTULO 3 - Introdução .docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047763/CAPITULO.3.-.Introducao.docx)
+[CAPITULO 3 - INTRODUCAO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056338/CAPITULO.3.-.INTRODUCAO.pdf)
 
-[Processo Congregação.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051089/Processo.Congregacao.docx)
+[Processo_Congregacao.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056339/Processo_Congregacao.pdf)
 
-[Processo Coordenação.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051091/Processo.Coordenacao.docx)
+[Processo_Coordenacao.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056340/Processo_Coordenacao.pdf)
 
-[Processo CPA.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051092/Processo.CPA.docx)
+[Processo_CPA.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056341/Processo_CPA.pdf)
 
-[Processo Diretoria.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051093/Processo.Diretoria.docx)
+[Processo_Diretoria.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056342/Processo_Diretoria.pdf)
 
-[Processo NDE.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10051094/Processo.NDE.docx)
+[Processo_NDE.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056343/Processo_NDE.pdf)
 
 Documentos de Refêrencia:
 
-[FAT01 - Manual API 2022-1.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047772/FAT01.-.Manual.API.2022-1.docx)
+[FAT01_Manual.API.2022-1.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056351/FAT01_Manual.API.2022-1.pdf)
 
-[FAT02 - PROC_ORIENTACAO_CONFEC_AVAL_TG.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047773/FAT02.-.PROC_ORIENTACAO_CONFEC_AVAL_TG.docx)
+[FAT02_PROC_ORIENTACAO_CONFEC_AVAL_TG.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056353/FAT02_PROC_ORIENTACAO_CONFEC_AVAL_TG.pdf)
 
-[FAT03 - REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10047774/FAT03.-.REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.docx)
+[FAT03_REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056354/FAT03_REGULAMENTO_GERAL_ESTAGIO_DA_FATEC.pdf)
+
 # DEV TEAM
 
 | [<img src="https://user-images.githubusercontent.com/95879043/202868944-721048a1-9271-4788-9555-852fb88862e3.png" width=115><br><sub>Gabriele Rodrigues</sub>](https://www.linkedin.com/in/gabriele-r-131261bb) |  [<img src="https://user-images.githubusercontent.com/95879043/202868687-e1e3d17f-f852-490e-9984-1530a21eb994.png" width=115><br><sub>Luiz Henrique</sub>](https://www.linkedin.com/in/luiz-henrique-alvess/) |  [<img src="https://user-images.githubusercontent.com/95879043/202868757-2e84a554-3b70-4c34-bc17-dd39e249b4c0.png" width=115><br><sub>Pablo Juliano</sub>](https://www.linkedin.com/in/pablo-juliano-barbosa-da-silva-b83b1b16a/) |
