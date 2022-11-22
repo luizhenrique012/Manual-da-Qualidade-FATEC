@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/95879043/202866872-56c0046b-7ec0-4a88-94f2-598dd721f33f.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/95879043/202866872-56c0046b-7ec0-4a88-94f2-598dd721f33f.png"/>
+</p>
 
 # Manual da Qualidade FATEC
 
