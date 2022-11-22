@@ -25,39 +25,39 @@ Este presente manual reflete, o esforço da Faculdade Fatec Jessen Vidal em prom
 </P align="justify">
 
 # 2	CERTIFICAÇÃO ISO 
-2.1	– O que é a ISO 21001?
+<b>2.1	– O que é a ISO 21001?</b>
 <P align="justify">
 A norma ISO 21001 é uma forma de padronização para as organizações educacionais, segundo o site da ABNT NBR. A ISO 21001 visa aumentar a satisfação dos alunos, outros beneficiários e empregados por meio de aplicação eficaz do seu Sistema de Gestão para Organizações Educacionais (SGOE), incluindo processos de melhoria do sistema e garantia de conformidade com os requisitos dos alunos e outros beneficiários. Disponível em <https://www.normas.com.br/visualizar/abnt-nbr-nm/12635/abnt-nbriso21001-organizacoes-educacionais-sistema-de-gestao-para-organizacoes-educacionais-requisitos-com-orientacao-para-uso>. Acesso em: 20 de novembro 2022.
 </P align="justify">
 
-2.2	– Como Implementar a ISO 21001
+<b>2.2	– Como Implementar a ISO 21001</b>
 <P align="justify">
 A implantação pode ocorrer mediante a aplicação de um “projeto interno” à faculdade Fatec Jessen Vidal, sendo uma equipe multifuncional, com membros de todos os departamentos e considerando à visão de suas atividades pertinentes. Deve ser formada para desenvolvimento das atividades requeridas pelo projeto o que incluiu, principalmente, o desenho dos processos, o título de informação sobre o desenvolvimento do projeto para que seja criada a cultura da qualidade.
 </P align="justify">
 
-2.3	– A sua importância
+<b>2.3	– A sua importância</b>
 <P align="justify">
 Uma instituição com a implementação da ISO 21001 garante aos alunos que seus serviços são confiáveis e de qualidade, comprovando que atua seguindo normas internacionais e utilizando processos que passam por melhoria contínua. Portanto, a implantação da ISO 21001 ajudará o gestor na identificação e correção de processos improdutivos ou aperfeiçoamento de algo positivo dentro do ambiente escolar, mantendo a qualidade dos serviços prestados e, consequentemente, a satisfação dos alunos. Trazendo para prática o escritor britânico John Ruskin informa que, “a garantia da qualidade nunca se obtém por acaso, ela é sempre o resultado do esforço inteligente”.
 </P align="justify">
 
-2.4	– Norma ISO 21001 no setor educacional
+<b>2.4	– Norma ISO 21001 no setor educacional</b>
 <P align="justify">
 A certificação da norma ISO 9001 na área industrial é algo extremamente importante para se sobressair contra a concorrência das empresas. Mas no setor educacional brasileiro é algo ainda inovador, por conta disso foi criado a "ISO 21001" que é uma norma baseada na ISO 9001 com requisitos específicos para Organizações Educacionais. Conforme informações do INMETRO (2008), pode-se afirmar que há 0,003 % de instituições de ensino de nível universitário, que possuíam a certificação ISO 9001:2000 no Brasil, em um universo de 2.398 públicas e privadas. Neste sentido, com a publicação em maio de 2018 da norma brasileira "NBR ISO 21001", que possui as diretrizes para implementação de um (SGOE), esta norma atenderá os estabelecimentos educacionais de todos os tipos e portes, já que os requisitos da "NBR ISO 21001" são genéricos e aplicáveis a todas as organizações educacionais.
 </P align="justify">
 
 # 3	APRESENTAÇÃO DA INSTITUIÇÃO E ATRIBUIÇÃO DA POLÍTICA DA QUALIDADE
 
-3.1	– Modelo de Estrutura Institucional
+<b>3.1	– Modelo de Estrutura Institucional</b>
 <P align="justify">
 O presente manual objetiva discutir o modelo de estrutura institucional da faculdade Fatec Jessen Vidal. Entende-se por faculdade, instituições pluridisciplinares de formação dos quadros profissionais de nível superior, de pesquisa, de extensão e de domínio e cultivo do saber humano, conforme disposto no Art. 52 da Lei de Diretrizes e Bases da Educação Nacional (LDB) – Lei nº 9.394, de 20/12/1996, além de Congregações e Núcleos Docentes Estruturantes que possibilitam uma melhor gestão das atividades a serem executadas.
 </P align="justify">
 
-3.2	– Comunicação Interna
+<b>3.2	– Comunicação Interna</b>
 <P align="justify">
 As faculdades buscam encontrar formas de melhorar os serviços prestados aos alunos, mas também aos próprios funcionários. E a melhor maneira de fortalecer esse processo que é execencial para desenvolvimento das informações se chama “Comunicação Interna”, que facilita as relações na orgazinação da faculdade de uma forma geral. No caso da Fatec Jessen Vidal, o público envolvido no fluxo de informações envolve alunos, professores e funcionários.
 </P align="justify">
 
-3.3	– Política de Qualidade da Faculdade
+<b>3.3	– Política de Qualidade da Faculdade</b>
 <P align="justify">
 Para que a Fatec Jessen Vidal possa se desenvolver de acordo com esses pressupostos, é adotado a lógica do PDCA, que busca atingir resultados dentro de um sistema de gestão e pode ser utilizado em qualquer instituição de forma a garantir o sucesso nos ensinos, independentemente da área de atuação do aluno.
 Essa prática começa pelo planejamento, em seguida as ações planejadas são executadas, checa-se se o que foi feito estava de acordo com o planejado e por fim toma-se uma ação para eliminar ou ao menos suavizar defeitos no produto ou na execução.
@@ -71,7 +71,7 @@ O desenvolvimento do manual foi realizado com base na Figura “Organograma do M
 ![image](https://user-images.githubusercontent.com/95879043/202866343-6961b30d-460e-4c2e-8b17-b760990ee565.png)
 
 
-4.1	– CONGREGAÇÃO:
+<b>4.1	– CONGREGAÇÃO:</b>
 <P align="justify">
 A congregação foi desenvolvida com objetivo de organizar toda a unidade da Fatec Jessen Vidal. A congregação é formada por toda a supervisão da faculdade, como diretoria, coordenadoria, professores e representantes do corpo técnico administrativo. A congregação no âmbito de ensino busca conduzir toda a faculdade como um todo, elaboração de regimes, comprimento de diretrizes, aprovações de planos de ensino e avaliar os resultados da Fatec Jessen Vidal.
  </P align="justify">
@@ -79,7 +79,7 @@ A congregação foi desenvolvida com objetivo de organizar toda a unidade da Fat
 | [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO CONGREGAÇÃO</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056339/Processo_Congregacao.pdf) |
 | :---: |
 
-4.2	– DIRETORIA DA UNIDADE:
+<b>4.2	– DIRETORIA DA UNIDADE:</b>
 <P align="justify">
 Neste capítulo foi apresentado as atividades realizadas pela diretoria, diretoria de serviços administrativos e Acadêmicos. Também é abordado os requisitos para a candidatura e composição da gestão acadêmica. Na classificação da “Diretoria de Serviços Administrativos” é apontado a responsabilidade de coordenar, orientar e controlar o desenvolvimento das atividades administrativas da unidade. A classificação da “Diretoria de Serviços Acadêmicos” é apontada a responsabilidade de orientar e controlar o desenvolvimento das atividades acadêmicas da Faculdade de Tecnologia. E por fim a classificação de “Diretoria” é apontado a responsabilidade de zelar, autorizar, aprovar e designar todo o procedimento da Fatec Jessen Vidal.
  </P align="justify">
@@ -87,7 +87,7 @@ Neste capítulo foi apresentado as atividades realizadas pela diretoria, diretor
 | [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO DIRETORIA DE UNIDADE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056342/Processo_Diretoria.pdf) |
 | :---: |
 
-4.3	– DEPARTAMENTOS OU COORDENADORIAS DE CURSOS:
+<b>4.3	– DEPARTAMENTOS OU COORDENADORIAS DE CURSOS:</b>
 <P align="justify">
 Os Departamentos/ Coordenadorias de cursos foram desenvolvidos com o intuito de identificar funções, atribuições, responsabilidades e encargos do coordenador dos cursos, visando melhor planejamento, controle e avaliação das atividades pedagógicas a serem executadas na faculdade. Cabe ao coordenador assumir a responsabilidade de divulgação do curso, gerando visibilidade e credibilidade ao ensino da instituição, atuando diretamente no relacionamento entre docentes, discentes e comunidade.
  </P align="justify">
@@ -95,7 +95,7 @@ Os Departamentos/ Coordenadorias de cursos foram desenvolvidos com o intuito de 
 | [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO DEPARTAMENTO OU COORDENADORIAS DE CURSOS</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056340/Processo_Coordenacao.pdf) |
 | :---: |
 
-4.4	– Núcleo Docente Estruturante
+<b>4.4	– Núcleo Docente Estruturante</b>
 <P align="justify">
 No capítulo do Núcleo Docente Estruturante (NDE) demonstra o objetivo que é estruturar e atualizar o processo de formação de docentes de acompanhamento, formação e continuidade contínua do projeto pedagógico do curso.
  </P align="justify">
@@ -103,7 +103,7 @@ No capítulo do Núcleo Docente Estruturante (NDE) demonstra o objetivo que é e
 | [<img src="https://user-images.githubusercontent.com/95879043/202933243-91deeab3-f18d-46cb-afee-4536c82b2d08.png" width=115><br><sub>PROCESSO NÚCLEO DOCENTE ESTRUTURANTE</sub>](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056343/Processo_NDE.pdf) |
 | :---: |
 
-4.5	– Comissão Própria de Avaliação
+<b>4.5	– Comissão Própria de Avaliação</b>
 <P align="justify">
 Neste capítulo referente a Comissão Própria de Avaliação (CPA) é apresentado a responsabilidade de coordenar uma autoavaliação institucional. A Fatec Jessen Vidal ministra as atividades de ensino, pesquisa e extensão dos serviços à comunidade. É relatado os seus encargos relacionados a admissão do vestibular, matrícula, transferências e todas as atividades pertinentes a vida acadêmica.
  </P align="justify">
