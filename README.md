@@ -69,6 +69,7 @@ O desenvolvimento do manual foi realizado com base na Figura “Organograma do M
  </P align="justify">
  
 ![image](https://user-images.githubusercontent.com/95879043/202866343-6961b30d-460e-4c2e-8b17-b760990ee565.png)
+<p align=Right><b>Organograma do Manual</b></p align=Right>
 
 
 <b>4.1	– CONGREGAÇÃO:</b>
