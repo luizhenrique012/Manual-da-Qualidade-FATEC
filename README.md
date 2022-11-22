@@ -7,6 +7,18 @@
 O manual tem como objetivo primeiro refletir, disseminar e comunicar a Política Garantia da Qualidade da Faculdade Fatec Prof. Jessen Vidal, dando especial ênfase ao seu Sistema Interno de Garantia da Qualidade – ISO 21001. Ele foi dividido em cinco processos que relaciona as atividades gerenciais da faculdade conforme as responsabilidades atribuídas pela diretoria. No caso da Fatec Jessen Vidal o Manual da Qualidade foi aplicado para produzir bens ou serviços que respondam concretamente às necessidades dos alunos. Para garantir a sobrevivência da faculdade por meio do conhecimento, obtido com o domínio da qualidade aplicada no ensino, identificando o problema mais crítico e solucionando pela mais elevada prioridade. Falar, raciocinar e decidir com dados e com base em fatos administrando a faculdade ao longo do processo e não por resultados, reduzir metodicamente as dispersões por meio do isolamento das causas fundamentais.
 </P align="justify">
 
+<b>PALAVRAS-CHAVE: qualidade; faculdade; ensino; curso.</b>
+
+
+# ABSTRACT
+<P align="justify"><i>
+The first objective of the manual is to reflect, disseminate and communicate the Quality Assurance Policy of Faculdade Fatec Prof. Jessen Vidal, with special emphasis on its Internal Quality Assurance System – ISO 21001. It was divided into five processes that relate the college's managerial activities according to the responsibilities assigned by the board. In the case of Fatec Jessen Vidal, the Quality Manual was applied to produce goods or services that respond concretely to the needs of students. To ensure the survival of the faculty through knowledge, obtained with the domain of applied quality in teaching, identifying the most critical problem and solving it with the highest priority. Speak, reason and decide with data and based on facts managing the faculty through the process and not by results, methodically reduce the dispersions by isolating the root causes.
+</P align="justify">
+
+
+<b>Keywords: quality; college; teaching; course.</b>
+</i>
+
 # 1  INTRODUÇÃO
 <P align="justify">
 Este presente manual reflete, o esforço da Faculdade Fatec Jessen Vidal em promover e assegurar a qualidade dos serviços prestados, não só através de procedimentos que disseminem a rigidez e a coerência da faculdade, mas, também, pela sistemática orientação para a melhoria contínua. Para a Fatec Jessen Vidal, garantia da qualidade é como a base de uma construção civil, se bem estruturada e investida a possibilidade de imperfeições ou inadvertências é reduzida ao mínimo desvio.
