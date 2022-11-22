@@ -24,7 +24,7 @@ The first objective of the manual is to reflect, disseminate and communicate the
 Este presente manual reflete, o esforço da Faculdade Fatec Jessen Vidal em promover e assegurar a qualidade dos serviços prestados, não só através de procedimentos que disseminem a rigidez e a coerência da faculdade, mas, também, pela sistemática orientação para a melhoria contínua. Para a Fatec Jessen Vidal, garantia da qualidade é como a base de uma construção civil, se bem estruturada e investida a possibilidade de imperfeições ou inadvertências é reduzida ao mínimo desvio.
 </P align="justify">
 
-# 2	CERTIFICAÇÃO ISO 
+# 2	CERTIFICAÇÃO ISO 21001
 <b>2.1	– O que é a ISO 21001?</b>
 <P align="justify">
 A norma ISO 21001 é uma forma de padronização para as organizações educacionais, segundo o site da ABNT NBR. A ISO 21001 visa aumentar a satisfação dos alunos, outros beneficiários e empregados por meio de aplicação eficaz do seu Sistema de Gestão para Organizações Educacionais (SGOE), incluindo processos de melhoria do sistema e garantia de conformidade com os requisitos dos alunos e outros beneficiários. Disponível em https://www.normas.com.br/visualizar/abnt-nbr-nm/12635/abnt-nbriso21001-organizacoes-educacionais-sistema-de-gestao-para-organizacoes-educacionais-requisitos-com-orientacao-para-uso. Acesso em: 20 de novembro 2022.
