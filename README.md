@@ -27,7 +27,7 @@ Este presente manual reflete, o esforço da Faculdade Fatec Jessen Vidal em prom
 # 2	CERTIFICAÇÃO ISO 
 <b>2.1	– O que é a ISO 21001?</b>
 <P align="justify">
-A norma ISO 21001 é uma forma de padronização para as organizações educacionais, segundo o site da ABNT NBR. A ISO 21001 visa aumentar a satisfação dos alunos, outros beneficiários e empregados por meio de aplicação eficaz do seu Sistema de Gestão para Organizações Educacionais (SGOE), incluindo processos de melhoria do sistema e garantia de conformidade com os requisitos dos alunos e outros beneficiários. Disponível em <https://www.normas.com.br/visualizar/abnt-nbr-nm/12635/abnt-nbriso21001-organizacoes-educacionais-sistema-de-gestao-para-organizacoes-educacionais-requisitos-com-orientacao-para-uso>. Acesso em: 20 de novembro 2022.
+A norma ISO 21001 é uma forma de padronização para as organizações educacionais, segundo o site da ABNT NBR. A ISO 21001 visa aumentar a satisfação dos alunos, outros beneficiários e empregados por meio de aplicação eficaz do seu Sistema de Gestão para Organizações Educacionais (SGOE), incluindo processos de melhoria do sistema e garantia de conformidade com os requisitos dos alunos e outros beneficiários. Disponível em https://www.normas.com.br/visualizar/abnt-nbr-nm/12635/abnt-nbriso21001-organizacoes-educacionais-sistema-de-gestao-para-organizacoes-educacionais-requisitos-com-orientacao-para-uso. Acesso em: 20 de novembro 2022.
 </P align="justify">
 
 <b>2.2	– Como Implementar a ISO 21001</b>
@@ -49,7 +49,7 @@ A certificação da norma ISO 9001 na área industrial é algo extremamente impo
 
 <b>3.1	– Modelo de Estrutura Institucional</b>
 <P align="justify">
-O presente manual objetiva discutir o modelo de estrutura institucional da faculdade Fatec Jessen Vidal. Entende-se por faculdade, instituições pluridisciplinares de formação dos quadros profissionais de nível superior, de pesquisa, de extensão e de domínio e cultivo do saber humano, conforme disposto no Art. 52 da Lei de Diretrizes e Bases da Educação Nacional (LDB) – Lei nº 9.394, de 20/12/1996, além de Congregações e Núcleos Docentes Estruturantes que possibilitam uma melhor gestão das atividades a serem executadas.
+O presente manual objetiva discutir o modelo de estrutura institucional da faculdade Fatec Jessen Vidal. Entende-se por faculdade, instituições pluridisciplinares de formação dos quadros profissionais de nível superior, de pesquisa, de extensão e de domínio e cultivo do saber humano, conforme disposto no Art. 52 da Lei de Diretrizes e Bases da Educação Nacional (LDB) – Lei nº 9.394, de 20/12/1996, http://www.planalto.gov.br/ccivil_03/leis/l9394.htm, além de Congregações e Núcleos Docentes Estruturantes que possibilitam uma melhor gestão das atividades a serem executadas.
 </P align="justify">
 
 <b>3.2	– Comunicação Interna</b>
