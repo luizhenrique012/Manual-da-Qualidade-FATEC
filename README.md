@@ -121,7 +121,7 @@ A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as prática
  
 #  LINKS
 
-Manual da Qualidade FATEC:
+<b>Manual da Qualidade FATEC:</b>
 
 [CAPITULO 1 - INDICE.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057558/CAPITULO.1.-.INDICE.pdf)
 
@@ -139,7 +139,7 @@ Manual da Qualidade FATEC:
 
 [Processo_NDE.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056343/Processo_NDE.pdf)
 
-Documentos de Refêrencia:
+<b>Documentos de Refêrencia:</b>
 
 [FAT01_Manual.API.2022-1.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056351/FAT01_Manual.API.2022-1.pdf)
 
