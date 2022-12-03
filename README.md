@@ -123,11 +123,11 @@ A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as prática
 
 <b>Manual da Qualidade FATEC:</b>
 
-[CAPITULO 1 - INDICE.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057558/CAPITULO.1.-.INDICE.pdf)
+[Indice.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057558/CAPITULO.1.-.INDICE.pdf)
 
-[CAPITULO 2 - LISTA DE REVISAO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057511/CAPITULO.2.-.LISTA.DE.REVISAO.pdf)
+[Lista de Revisao.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057511/CAPITULO.2.-.LISTA.DE.REVISAO.pdf)
 
-[CAPITULO 3 - INTRODUCAO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057512/CAPITULO.3.-.INTRODUCAO.pdf)
+[Introducao.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057512/CAPITULO.3.-.INTRODUCAO.pdf)
 
 [Processo_Congregacao.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10056339/Processo_Congregacao.pdf)
 
