@@ -125,7 +125,7 @@ A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as prática
 
 [Indice.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057558/CAPITULO.1.-.INDICE.pdf)
 
-[Lista de Revisao.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057511/CAPITULO.2.-.LISTA.DE.REVISAO.pdf)
+[Lista de Revisao.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10149632/CAPITULO.2.-.LISTA.DE.REVISAO.pdf)
 
 [Introducao.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10057512/CAPITULO.3.-.INTRODUCAO.pdf)
 
