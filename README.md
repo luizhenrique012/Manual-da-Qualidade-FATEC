@@ -143,6 +143,8 @@ A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as prática
 
 [MANUAL FATEC - COMPLETO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10179207/MANUAL.FATEC.-.COMPLETO.pdf)
 
+[MANUAL FATEC - APRESENTAÇÃO.pptx](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10179289/APRESENTACAO.-.MANUAL.FATEC.pptx)
+
 
 <b>Documentos de Refêrencia:</b>
 
