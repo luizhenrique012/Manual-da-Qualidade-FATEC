@@ -123,21 +123,26 @@ A faculdade Fatec Jessen Vidal assume a responsabilidade de melhorar as prática
 
 <b>Manual da Qualidade FATEC:</b>
 
+[MANUAL FATEC - DESCRIÇÃO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10179202/MANUAL.FATEC.-.DESCRICAO.pdf)
+
 [CAPÍTULO 1 - ÍNDICE.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171456/CAPITULO.1.-.INDICE.pdf)
 
 [CAPÍTULO 2 - LISTA DE REVISÃO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171457/CAPITULO.2.-.LISTA.DE.REVISAO.pdf)
 
 [CAPÍTULO 3 - Introdução .pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171458/CAPITULO.3.-.Introducao.pdf)
 
-[CAPÍTULO 4 - Processo Congregação.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171459/CAPITULO.4.-.Processo.Congregacao.pdf)
+[Processo Congregação.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171459/CAPITULO.4.-.Processo.Congregacao.pdf)
 
-[CAPÍTULO 5 - Processo Diretoria.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171460/CAPITULO.5.-.Processo.Diretoria.pdf)
+[Processo Diretoria.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171460/CAPITULO.5.-.Processo.Diretoria.pdf)
 
-[CAPÍTULO 6 - Processo Coordenação.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171461/CAPITULO.6.-.Processo.Coordenacao.pdf)
+[Processo Coordenação.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171461/CAPITULO.6.-.Processo.Coordenacao.pdf)
 
-[CAPÍTULO 7 - Processo NDE.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171462/CAPITULO.7.-.Processo.NDE.pdf)
+[Processo NDE.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171462/CAPITULO.7.-.Processo.NDE.pdf)
 
-[CAPÍTULO 8 - Processo CPA.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171463/CAPITULO.8.-.Processo.CPA.pdf)
+[Processo CPA.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10171463/CAPITULO.8.-.Processo.CPA.pdf)
+
+[MANUAL FATEC - COMPLETO.pdf](https://github.com/luizhenrique012/Manual-da-Qualidade-FATEC/files/10179207/MANUAL.FATEC.-.COMPLETO.pdf)
+
 
 <b>Documentos de Refêrencia:</b>
 
